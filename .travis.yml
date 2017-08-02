@@ -8,6 +8,7 @@ node_js:
 deploy:
   provider: npm
   email: github@tixz.dk
-  api_key: 
+  api_key:
+    secure: 2pfqY+BYj9aWXwhGexxeX1/l9wi2PFpzl7BLgPSjtIOcKrU0Jts0lwxrT1H0j3mpGHBDhqfDr6Q084KybUW5AOMVMAo9akTGo6G3Sx3ZKT/g5YO8kNpC+QH9iwSkgPo+yoF4gVEcuWjIJKiLWyPhaANhcZ8MgNnTNvYGOTY9zaqR0lKcWXkP8Drhux5MMPOHJC6ijOn7Ui0nKbUmZp5LYxCAaZ/W2lfdEafaH/BA09IaSaHUfEDxMlbvz4cPcI8lK5AH9MkF6nu2ooqabza1psL3Qftt/vCOwxmJxxhqyNSZtihES/ovCTX+ZYufsWNgOgxN6SRBKzsHYm0HwttTarcGN3SwjVoTYfvhmtP/r18RweTWRsI7OY31GJlxEa4D3/VqkO2kagD4NJcjsy0J7HogOy7UtMYhYKjcxwEIjhdWpzczOHHc8mRdJCLBjGwnISR0xs/Od4SHn8Npe98RyLIB/85MlwIRBFHIBGqZAiP+Z6hT3QLAlweQbbx7Yh8t+l7f+U2wPet0xLYrNsP9UE+VROSJhjwY2+FWO/+gcZEeU7hzmSbHUes3wDlmaSRHOGZZJ9wX2PEIGOaXR3LyDmp638K3ppNYd+KqinJdlqY+L+v8sfs3WKSPvcTS+xoefHly7/YF0Wz+4wIaI0IlZvTlGvAREGlIIt9lwJVJqq0=
   on:
     tags: true

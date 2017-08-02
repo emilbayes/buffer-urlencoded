@@ -1,5 +1,7 @@
 # `buffer-urlencoded`
 
+[![Build Status](https://travis-ci.org/emilbayes/buffer-urlencoded.svg?branch=master)](https://travis-ci.org/emilbayes/buffer-urlencoded)
+
 > Decode `application/x-www-form-urlencoded` Buffer into key/value Buffers
 
 ## Usage
