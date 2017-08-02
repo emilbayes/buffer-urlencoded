@@ -1,0 +1,13 @@
+notifications:
+  email: false
+language: node_js
+node_js:
+- 6
+- 7
+- 8
+deploy:
+  provider: npm
+  email: github@tixz.dk
+  api_key: 
+  on:
+    tags: true
