@@ -1,6 +1,6 @@
 {
   "name": "buffer-urlencoded",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Decode application/x-www-form-urlencoded into Buffers",
   "main": "index.js",
   "dependencies": {
